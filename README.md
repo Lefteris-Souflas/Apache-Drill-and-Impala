@@ -8,6 +8,9 @@ You've joined a large bookstore company with diverse data formats: client data i
 
 ## Task 3 [40 points]
 Your client has an Impala database and wants a new database with a specific schema:
+
+![Screenshot 2024-04-09 182509](https://github.com/Lefteris-Souflas/Apache-Drill-and-Impala/assets/143879796/c2d000e9-53f2-4c63-905e-c3d2555475c1)
+
 - 3a) Create the Impala database & required tables.
 - 3b) Provide a command to insert an entry into the Student table.
 - 3c) Write a statement to retrieve the names of students who attended "Artificial Intelligence" course during "2021-2022".
