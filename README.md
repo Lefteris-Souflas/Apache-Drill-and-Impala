@@ -17,7 +17,7 @@ Your client has an Impala database and wants a new database with a specific sche
 A query in the Impala database is too slow. Describe your approach to investigate and improve efficiency. Provide relevant commands.
 
 
-### Assignment Submission Requirements
+## Assignment Submission Requirements
 
 To successfully submit this assignment, Cloudera Quickstart VM running on Red Hat Linux was utilized.
 
