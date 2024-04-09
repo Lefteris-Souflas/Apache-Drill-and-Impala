@@ -1,5 +1,4 @@
-# Apache-Drill-and-Impala
-## Assignment: Advanced Topics in Data Engineering
+# Apache Drill and Impala Assignment
 
 **Task 1 [25 points]**
 Among Hive, Impala, and Drill, which one implements the concept of data virtualization more precisely? Elaborate.
