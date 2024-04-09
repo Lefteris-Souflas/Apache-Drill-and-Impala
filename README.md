@@ -19,6 +19,6 @@ A query in the Impala database is too slow. Describe your approach to investigat
 
 ## Assignment Submission Requirements
 
-To successfully submit this assignment, Cloudera Quickstart VM running on Red Hat Linux was utilized.
+To successfully submit this assignment, **Cloudera Quickstart VM** running on Red Hat Linux was utilized.
 
 ![cloudera-quickstart-vm](https://github.com/Lefteris-Souflas/Apache-Drill-and-Impala/assets/143879796/3b4df4f9-0775-41d0-9cba-cf6c8d30f567)
