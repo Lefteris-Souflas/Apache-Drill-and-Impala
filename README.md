@@ -1,10 +1,5 @@
 # Apache Drill and Impala Assignment
 
-For the successful submission of this assignment, **Cloudera Quickstart VM** running on Red Hat Linux was utilized.
-
-![cloudera-quickstart-vm](https://github.com/Lefteris-Souflas/Apache-Drill-and-Impala/assets/143879796/3b4df4f9-0775-41d0-9cba-cf6c8d30f567)
-
-
 ## Task 1 [25 points]
 Among Hive, Impala, and Drill, which one implements the concept of data virtualization more precisely? Elaborate.
 
@@ -20,3 +15,10 @@ Your client has an Impala database and wants a new database with a specific sche
 
 ## Task 4 [10 points]
 A query in the Impala database is too slow. Describe your approach to investigate and improve efficiency. Provide relevant commands.
+
+
+### Assignment Submission Requirements
+
+To successfully submit this assignment, Cloudera Quickstart VM running on Red Hat Linux was utilized.
+
+![cloudera-quickstart-vm](https://github.com/Lefteris-Souflas/Apache-Drill-and-Impala/assets/143879796/3b4df4f9-0775-41d0-9cba-cf6c8d30f567)
