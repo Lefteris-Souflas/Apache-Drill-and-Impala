@@ -1,5 +1,7 @@
 # Apache Drill and Impala Assignment
 
+Assignment 1 for the Advanced Data Engineering Course of AUEB's MSc in Business Analytics
+
 ## Data Virtualization and Query Performance Optimization Report
 
 In this comprehensive report, we delve into the realm of data virtualization within the domain of big data analytics, with a particular focus on comparing the capabilities of three prominent tools: Apache Drill, Hive, and Impala.
